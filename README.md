@@ -12,5 +12,3 @@ A aplicação já está totalmente funcional mas grande parte do seu código est
 - O header da aplicação possui apenas o nome da categoria selecionada que deve mudar dinamicamente.
 
 <img width="1440" alt="Screen Shot 2021-04-20 at 00 17 53" src="https://user-images.githubusercontent.com/58471466/115332346-022e5f00-a16e-11eb-9d8c-10b94ae198e3.png">
-
-![Uploading Screen Shot 2021-04-20 at 00.18.06.png…]()
